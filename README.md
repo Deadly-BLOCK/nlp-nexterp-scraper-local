@@ -17,7 +17,7 @@ Follow these steps to clone the repository and start the local server:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Deadly-BLOCK/nlp-nexterp-scraper-local](https://github.com/Deadly-BLOCK/nlp-nexterp-scraper-local)
+git clone https://github.com/Deadly-BLOCK/nlp-nexterp-scraper-local
 
 # Navigate into the project directory
 cd nlp-nexterp-scraper-local
